@@ -75,3 +75,22 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+##########################
+# Unreal Generated Files #
+##########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent/Textures
+BuildingEscape/Content/StarterContent/HDRI
+
+######################
+# VS Generated Files #
+######################
+*.VC.db
+*.suo
+*.VC.opendb
+*.sln
